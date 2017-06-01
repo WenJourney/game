@@ -1,0 +1,10 @@
+    body {
+        text-align: center;
+    }
+    div{
+        position: relative;
+    }
+    p{
+        display: inline;
+
+    }
